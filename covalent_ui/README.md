@@ -1,4 +1,4 @@
-# Covalent UI
+## Covalent UI
 
 ## Setup
 
